@@ -11,7 +11,7 @@ BOT_TOKEN = "7570067863:AAGkAdnrGfsm9sJktt7pmCpJoxa5prJEMX0"
 CHANNEL_USERNAME = "@deepseek_ai_ya"
 API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "openai/gpt-4o-search-preview"
+MODEL = "meta-llama/llama-4-maverick:free"
 
 # ----------- لاگ‌گیری -------------
 logging.basicConfig(level=logging.INFO)
